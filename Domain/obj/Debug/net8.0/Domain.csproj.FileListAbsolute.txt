@@ -9,3 +9,4 @@ C:\Users\USUARIO\Desktop\ESCRITORIO\PORTFOLIO\HabitTracker\HabitTracker\Domain\o
 C:\Users\USUARIO\Desktop\ESCRITORIO\PORTFOLIO\HabitTracker\HabitTracker\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\USUARIO\Desktop\ESCRITORIO\PORTFOLIO\HabitTracker\HabitTracker\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\USUARIO\Desktop\ESCRITORIO\PORTFOLIO\HabitTracker\HabitTracker\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\USUARIO\Desktop\ESCRITORIO\PORTFOLIO\HabitTracker\HabitTracker\Domain\obj\Debug\net8.0\Domain.sourcelink.json

@@ -52,5 +52,28 @@ namespace Domain.Entities
             var entry = new HabitEntry(Id, date);
             _entries.Add(entry);
         }
+
+        public int GetCurrentStreak()
+        {
+            if (!_entries.Any())
+                return 0;
+            var completedDates = _entries.Where(e=>e.IsCompleted).Select(e=>e.Date).Distinct().OrderByDescending(d=>d).ToList();
+            var today = DateOnly.FromDateTime(DateTime.UtcNow);
+            int streak = 0;
+            var currentDay = today;
+            foreach (var date in completedDates)
+            {
+                if(date == currentDay)
+                {
+                    streak++;
+                    currentDay = currentDay.AddDays(-1);
+                }
+                else if (date < currentDay)
+                {
+                    break;
+                }
+            }
+            return streak;
+        }
     }
 }

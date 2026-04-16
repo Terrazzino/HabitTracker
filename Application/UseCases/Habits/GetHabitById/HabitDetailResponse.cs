@@ -12,5 +12,6 @@ namespace Application.UseCases.Habits.GetHabitById
         public string Name { get; init; } = default!;
         public bool IsActive { get; init; }
         public List<HabitEntryResponse> Entries { get; init; } = new(); 
+        public int CurrentStreak { get; init; }
     }
 }

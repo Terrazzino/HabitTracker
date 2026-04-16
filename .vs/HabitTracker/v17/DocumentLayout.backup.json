@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\ESCRITORIO\\PORTFOLIO\\HabitTracker\\HabitTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{621F2511-FC07-411B-B8C4-AA530DA9C3A0}|API\\API.csproj|c:\\users\\usuario\\desktop\\escritorio\\portfolio\\habittracker\\habittracker\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{621F2511-FC07-411B-B8C4-AA530DA9C3A0}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{621F2511-FC07-411B-B8C4-AA530DA9C3A0}|API\\API.csproj|c:\\users\\usuario\\desktop\\escritorio\\portfolio\\habittracker\\habittracker\\api\\controllers\\habitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621F2511-FC07-411B-B8C4-AA530DA9C3A0}|API\\API.csproj|solutionrelative:api\\controllers\\habitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{621F2511-FC07-411B-B8C4-AA530DA9C3A0}|API\\API.csproj|c:\\users\\usuario\\desktop\\escritorio\\portfolio\\habittracker\\habittracker\\api\\midleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{621F2511-FC07-411B-B8C4-AA530DA9C3A0}|API\\API.csproj|solutionrelative:api\\midleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5131B19-1576-4384-88B3-3F30AD6DFABC}|Application\\Application.csproj|c:\\users\\usuario\\desktop\\escritorio\\portfolio\\habittracker\\habittracker\\application\\usecases\\habits\\gethabitbyid\\gethabitbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5131B19-1576-4384-88B3-3F30AD6DFABC}|Application\\Application.csproj|solutionrelative:application\\usecases\\habits\\gethabitbyid\\gethabitbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C1CA57-FF56-466F-BE03-3511AAFBC166}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\escritorio\\portfolio\\habittracker\\habittracker\\domain\\entities\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C1CA57-FF56-466F-BE03-3511AAFBC166}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5131B19-1576-4384-88B3-3F30AD6DFABC}|Application\\Application.csproj|c:\\users\\usuario\\desktop\\escritorio\\portfolio\\habittracker\\habittracker\\application\\usecases\\habits\\gethabitbyid\\habitdetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5131B19-1576-4384-88B3-3F30AD6DFABC}|Application\\Application.csproj|solutionrelative:application\\usecases\\habits\\gethabitbyid\\habitdetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ESCRITORIO\\PORTFOLIO\\HabitTracker\\HabitTracker\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ESCRITORIO\\PORTFOLIO\\HabitTracker\\HabitTracker\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAxAAAAAAAAAA==",
+              "Title": "HabitsController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ESCRITORIO\\PORTFOLIO\\HabitTracker\\HabitTracker\\API\\Controllers\\HabitsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\HabitsController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ESCRITORIO\\PORTFOLIO\\HabitTracker\\HabitTracker\\API\\Controllers\\HabitsController.cs",
+              "RelativeToolTip": "API\\Controllers\\HabitsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T20:46:08.178Z",
+              "WhenOpened": "2026-04-15T21:59:40.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ExceptionHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ESCRITORIO\\PORTFOLIO\\HabitTracker\\HabitTracker\\API\\Midleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "API\\Midleware\\ExceptionHandlingMiddleware.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ESCRITORIO\\PORTFOLIO\\HabitTracker\\HabitTracker\\API\\Midleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeToolTip": "API\\Midleware\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
+              "Title": "GetHabitByIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ESCRITORIO\\PORTFOLIO\\HabitTracker\\HabitTracker\\Application\\UseCases\\Habits\\GetHabitById\\GetHabitByIdUseCase.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\Habits\\GetHabitById\\GetHabitByIdUseCase.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ESCRITORIO\\PORTFOLIO\\HabitTracker\\HabitTracker\\Application\\UseCases\\Habits\\GetHabitById\\GetHabitByIdUseCase.cs",
+              "RelativeToolTip": "Application\\UseCases\\Habits\\GetHabitById\\GetHabitByIdUseCase.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T20:39:23.902Z",
+              "WhenOpened": "2026-04-15T21:57:59.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HabitDetailResponse.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ESCRITORIO\\PORTFOLIO\\HabitTracker\\HabitTracker\\Application\\UseCases\\Habits\\GetHabitById\\HabitDetailResponse.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\Habits\\GetHabitById\\HabitDetailResponse.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ESCRITORIO\\PORTFOLIO\\HabitTracker\\HabitTracker\\Application\\UseCases\\Habits\\GetHabitById\\HabitDetailResponse.cs",
+              "RelativeToolTip": "Application\\UseCases\\Habits\\GetHabitById\\HabitDetailResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:56:56.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Habit.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ESCRITORIO\\PORTFOLIO\\HabitTracker\\HabitTracker\\Domain\\Entities\\Habit.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Habit.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ESCRITORIO\\PORTFOLIO\\HabitTracker\\HabitTracker\\Domain\\Entities\\Habit.cs",
+              "RelativeToolTip": "Domain\\Entities\\Habit.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwEsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:27:41.424Z",
               "EditorCaption": ""
             }
           ]

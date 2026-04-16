@@ -21,7 +21,7 @@ namespace Application.UseCases.Habits.CompleteHabit
         }
         public async Task ExecuteAsyn(CompleteHabitRequest request, CancellationToken cancellationToken)
         {
-            var habit = await _habitRepository.GetByIdAsync(request.HabitId, cancellationToken);
+            var habit = await _habitRepository.GetByIdWithEntriesAsync(request.HabitId, cancellationToken);
             if (habit is null)
             {
                 throw new NotFoundException("Habit not found");

@@ -17,3 +17,4 @@ C:\Users\USUARIO\Desktop\ESCRITORIO\PORTFOLIO\HabitTracker\HabitTracker\Infraest
 C:\Users\USUARIO\Desktop\ESCRITORIO\PORTFOLIO\HabitTracker\HabitTracker\Infraestructure\obj\Debug\net8.0\ref\Infraestructure.dll
 C:\Users\USUARIO\Desktop\ESCRITORIO\PORTFOLIO\HabitTracker\HabitTracker\Infraestructure\bin\Debug\net8.0\Infraestructure.runtimeconfig.json
 C:\Users\USUARIO\Desktop\ESCRITORIO\PORTFOLIO\HabitTracker\HabitTracker\Infraestructure\obj\Debug\net8.0\Infraestructure.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\ESCRITORIO\PORTFOLIO\HabitTracker\HabitTracker\Infraestructure\obj\Debug\net8.0\Infraestructure.sourcelink.json

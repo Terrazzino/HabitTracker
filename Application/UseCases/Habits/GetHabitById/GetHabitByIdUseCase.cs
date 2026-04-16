@@ -26,6 +26,7 @@ namespace Application.UseCases.Habits.GetHabitById
                 Id = habit.Id,
                 Name = habit.Name,
                 IsActive = habit.IsActive,
+                CurrentStreak = habit.GetCurrentStreak(),
                 Entries = habit.Entries
                 .Select(e => new HabitEntryResponse
                 {
